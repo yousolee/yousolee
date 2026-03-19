@@ -1,16 +1,16 @@
 # Hey, I'm Youso 👋
 
 **Computer Engineering @ Georgia Tech** | Class of 2027  
-Focused on embedded systems, digital design, and FPGA development.
+Focused on Embedded Systems and Semiconductor Design Verification.
 
-I like building things that sit close to the hardware — whether that's writing firmware for microcontrollers, designing peripherals in Verilog, or working on cryptographic accelerators on FPGAs. Currently looking for **Summer 2026 internship** opportunities in embedded, hardware, or chip design.
+I have experience developing embedded applications in C/C++ on microcontroller platforms, implementing real-time control logic, and integrating peripherals on resource-constrained systems. Strong foundation in embedded systems, digital design, and board-level workflows, with a focus on reliability, efficiency, and collaborative engineering. Currently looking for **Summer 2026 internship** opportunities in embedded, hardware, or design verification.
 
 ---
 
 ### 🔧 What I'm Working On
 
-- **ChaCha20 Hardware Accelerator** — Expanding an FPGA-based cryptographic accelerator as part of Georgia Tech's [CRNCH Rogues Gallery](https://crnch-rg.cc.gatech.edu/) research testbed (VIP)
-- **Silicon Jackets** — Designing a SystemVerilog calculator on the digital design subteam, building ASIC/VLSI foundations
+- **FPGA Trading Indicator Accelerator** — Building hardware-accelerated trading indicators (MACD, RSI, Aroon Oscillator) in SystemVerilog with fixed-point arithmetic and UVM verification as part of Georgia Tech's [CRNCH Rogues Gallery](https://crnch-rg.cc.gatech.edu/) VIP research
+- **Smart Door Security System** — Dual-mode security system using two ESP32-C6 nodes communicating via ESP-NOW. Armed mode triggers a PWM piezo siren, NeoPixel LED alerts, and Telegram push notifications; Disarmed mode tracks foot-traffic on a 16x2 LCD. Uses reed switch sensing, interrupts, and threaded program design (ECE 4180)
 
 ### 🛠 Tech & Tools
 
