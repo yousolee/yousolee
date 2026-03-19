@@ -30,16 +30,15 @@ I have experience developing embedded applications in C/C++ on microcontroller p
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square)
+[![Vivado](https://img.shields.io/badge/-Vivado-E01F27?style=flat-square&logo=xilinx&logoColor=white)](https://github.com/yousolee)
 
 ### 📂 Featured Projects
 
-> *Repos coming soon — pinned projects will appear here as I publish them.*
-
 | Project | Description | Stack |
-|---------|-------------|-------|
-| **Snake Game on Mbed** | Real-time Snake game on an embedded microcontroller with nav-switch input, sprite rendering, and OOP game logic | C++, Mbed |
-| **LED Brightness Peripheral** | PWM-based LED brightness controller on FPGA with memory-mapped registers and gamma correction | Verilog, Quartus |
-| **RISC-V Puzzle Matcher** | Pattern-matching algorithm implemented in both C and RISC-V assembly, optimized for code size and execution time | C, RISC-V Assembly |
+| --- | --- | --- |
+| [**XChaCha20 FPGA Accelerator**](https://github.com/yousolee/xchacha20-fpga-accelerator) | Packaged and deployed a crypto accelerator IP on Zynq UltraScale+ via AXI4-Lite | Vivado, Verilog |
+| [**LED Brightness Peripheral**](https://github.com/yousolee/led-brightness-peripheral) | PWM brightness controller on FPGA with gamma correction and flash modes | VHDL, Quartus |
+| [**Trading Indicator Accelerator**](https://github.com/yousolee/reconfig-trading-accelerator) | FPGA-based MACD/RSI/Aroon accelerators with fixed-point arithmetic | SystemVerilog, UVM |
 
 ### 📊 GitHub Stats
 
