@@ -45,8 +45,11 @@ I have experience developing embedded applications in C/C++ on microcontroller p
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousolee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousolee&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousolee&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousolee&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousolee&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ### 📬 Get In Touch
