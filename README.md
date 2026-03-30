@@ -9,8 +9,8 @@ I have experience developing embedded applications in C/C++ on microcontroller p
 
 ### 🔧 What I'm Working On
 
-- **FPGA Trading Indicator Accelerator** — Building hardware-accelerated trading indicators (MACD, RSI, Aroon Oscillator) in SystemVerilog with fixed-point arithmetic and UVM verification as part of Georgia Tech's [CRNCH Rogues Gallery](https://crnch-rg.cc.gatech.edu/) VIP research
-- **Smart Door Security System** — Dual-mode security system using two ESP32-C6 nodes communicating via ESP-NOW. Armed mode triggers a PWM piezo siren, NeoPixel LED alerts, and Telegram push notifications; Disarmed mode tracks foot-traffic on a 16x2 LCD. Uses reed switch sensing, interrupts, and threaded program design (ECE 4180)
+- **[FPGA Trading Indicator Accelerator](https://github.com/yousolee/reconfig-trading-accelerator)** — Building hardware-accelerated trading indicators (MACD, RSI, Aroon Oscillator) in SystemVerilog with fixed-point arithmetic and UVM verification as part of Georgia Tech's [CRNCH Rogues Gallery](https://crnch-rg.cc.gatech.edu/) VIP research
+- **[Smart Door Security System](https://github.com/yousolee/Smart-Door-Security-System)** — Dual-mode security system using two ESP32-C6 nodes communicating via ESP-NOW. Armed mode triggers a PWM piezo siren, NeoPixel LED alerts, and Telegram push notifications; Disarmed mode tracks foot-traffic on a 16x2 LCD. Uses reed switch sensing, interrupts, and threaded program design (ECE 4180)
 - **[JobHuntBot](https://github.com/yousolee/jobhuntbot)** — Multi-agent job hunting automation system with AI-powered job scouting, resume tailoring, salary lookup, networking, and a Streamlit dashboard. Built with Python, Gemini API, and SQLite
 
 ### 🛠 Tech & Tools
@@ -45,8 +45,8 @@ I have experience developing embedded applications in C/C++ on microcontroller p
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousolee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousolee&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousolee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousolee&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ### 📬 Get In Touch
