@@ -11,6 +11,7 @@ I have experience developing embedded applications in C/C++ on microcontroller p
 
 - **FPGA Trading Indicator Accelerator** — Building hardware-accelerated trading indicators (MACD, RSI, Aroon Oscillator) in SystemVerilog with fixed-point arithmetic and UVM verification as part of Georgia Tech's [CRNCH Rogues Gallery](https://crnch-rg.cc.gatech.edu/) VIP research
 - **Smart Door Security System** — Dual-mode security system using two ESP32-C6 nodes communicating via ESP-NOW. Armed mode triggers a PWM piezo siren, NeoPixel LED alerts, and Telegram push notifications; Disarmed mode tracks foot-traffic on a 16x2 LCD. Uses reed switch sensing, interrupts, and threaded program design (ECE 4180)
+- **[JobHuntBot](https://github.com/yousolee/jobhuntbot)** — Multi-agent job hunting automation system with AI-powered job scouting, resume tailoring, salary lookup, networking, and a Streamlit dashboard. Built with Python, Gemini API, and SQLite
 
 ### 🛠 Tech & Tools
 
@@ -39,6 +40,7 @@ I have experience developing embedded applications in C/C++ on microcontroller p
 | [**XChaCha20 FPGA Accelerator**](https://github.com/yousolee/xchacha20-fpga-accelerator) | Packaged and deployed a crypto accelerator IP on Zynq UltraScale+ via AXI4-Lite | Vivado, Verilog |
 | [**LED Brightness Peripheral**](https://github.com/yousolee/led-brightness-peripheral) | PWM brightness controller on FPGA with gamma correction and flash modes | VHDL, Quartus |
 | [**Trading Indicator Accelerator**](https://github.com/yousolee/reconfig-trading-accelerator) | FPGA-based MACD/RSI/Aroon accelerators with fixed-point arithmetic | SystemVerilog, UVM |
+| [**Claude Code For Everyone Tutorial**](https://github.com/yousolee/Claude-Code-For-Everyone-Tutorial) | Coffee Personality Quiz web app built as capstone for the Claude Code for Everyone course | Next.js, TypeScript, Tailwind |
 
 ### 📊 GitHub Stats
 
